@@ -1,3 +1,4 @@
+Alice likes cats
 Bob likes cats
     /\_____/\
    /  o   o  \
